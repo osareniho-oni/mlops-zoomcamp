@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gab_o/OneDrive/Documents/Data%20Science%20Projects/week2-homework/mlruns/669093611664427730/0469cad03f2d442592d40f92d393e3da/artifacts
+end_time: 1717416632327
+entry_point_name: ''
+experiment_id: '669093611664427730'
+lifecycle_stage: active
+run_id: 0469cad03f2d442592d40f92d393e3da
+run_name: salty-steed-488
+run_uuid: 0469cad03f2d442592d40f92d393e3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717416609539
+status: 3
+tags: []
+user_id: gab_o
